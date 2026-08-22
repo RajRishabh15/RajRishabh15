@@ -1,6 +1,6 @@
 # RajRishabh15
 
-> Memorable developer positioning.
+
 
 ## Header
 
