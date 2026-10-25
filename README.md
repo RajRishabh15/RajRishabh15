@@ -149,15 +149,10 @@
 <a href="https://github.com/rajrishabh15"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
 <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+
 
 <br/><br/>
 
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
 
 
 </div>
