@@ -31,33 +31,26 @@
 
 <div align="center">
 
-**🧠 Languages**
+**🧠 Tech Stack**
 
 <img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
 
 **🌐 Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs,tailwind&theme=dark" />
 
 <em>✏️ The tools you reach for, in a sentence.</em>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-**🗄️ Databases & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
 
-**🧩 DSA & Problem Solving**
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> -->
 
 </div>
 
