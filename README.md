@@ -109,12 +109,12 @@
 ## 🎯 `> cat current_quests.log`
 
 ```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
++ [ACTIVE]    🚀 Building: FSD & UI/UX
 + [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
 + [ACTIVE]    💻 Grinding: DSA & Competitive Programming
 ! [PENDING]   📊 Goal: Publish research in Data Science
 ! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+- [LOCKED]    👑 Boss Fight: Land a dream role in FSD
 ```
 
 <div align="center">
@@ -122,11 +122,10 @@
 | 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
 |:--|:--|:--|
 | 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
+| 📊 Data Science | `██░░░` | **20%** |
 | ⚛️ React | `██████░░░░` | **60%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
+| 🏗️ DSA | `█████░░░` | **40%** |
+
 
 </div>
 
@@ -147,8 +146,8 @@
 <div align="center">
 
 <a href="https://github.com/rajrishabh15"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<a href="mailto:rajrish0915@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+<a href="www.linkedin.com/in/rishabhr15"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
 
 
 <br/><br/>
